@@ -1,1 +1,10 @@
 @import "_type";
+@import "_setting";
+
+body{
+	background: $background;
+	color: $text-color;
+}
+h1{
+	color: $highlight;
+}

@@ -1,7 +1,7 @@
 /* line 1, ../sass/_type.scss */
 body, html {
   font-size: 16px;
-  font-family: 'Droid Serif', serif; }
+  font-family: 'raleway', sans-serif; }
   @media screen and (max-width: 700px) {
     /* line 1, ../sass/_type.scss */
     body, html {
@@ -15,14 +15,15 @@ p {
 
 /* line 14, ../sass/_type.scss */
 h1 {
-  font-size: 2.2500em;
-  /* 36px */
-  line-height: 1.0000em;
-  /* 36px */
-  margin-top: 0.5000em;
-  margin-bottom: 0.0000em; }
+  font-size: 4.0000em;
+  /* 64px */
+  line-height: 1.1250em;
+  /* 72px */
+  margin-top: 0.2813em;
+  margin-bottom: 0.0000em;
+  font-weight: 700; }
 
-/* line 19, ../sass/_type.scss */
+/* line 20, ../sass/_type.scss */
 h2 {
   font-size: 1.5000em;
   /* 24px */
@@ -31,7 +32,7 @@ h2 {
   margin-top: 0.7500em;
   margin-bottom: 0.0000em; }
 
-/* line 24, ../sass/_type.scss */
+/* line 25, ../sass/_type.scss */
 h3 {
   font-size: 1.3750em;
   /* 22px */
@@ -40,7 +41,7 @@ h3 {
   margin-top: 0.8182em;
   margin-bottom: 0.0000em; }
 
-/* line 29, ../sass/_type.scss */
+/* line 30, ../sass/_type.scss */
 .small {
   font-size: 0.8750em;
   /* 14px */
@@ -48,3 +49,12 @@ h3 {
   /* 18px */
   margin-top: 1.2857em;
   margin-bottom: 0.0000em; }
+
+/* line 4, ../sass/style.scss */
+body {
+  background: #354b60;
+  color: #93a0ac; }
+
+/* line 8, ../sass/style.scss */
+h1 {
+  color: #cdd3d8; }

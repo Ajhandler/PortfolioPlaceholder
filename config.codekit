@@ -41,6 +41,22 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/sass\/_setting.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 1,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_setting.scss",
+		"outputAbbreviatedPath": "\/css\/_setting.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/sass\/_type.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 1,

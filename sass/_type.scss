@@ -1,6 +1,6 @@
 body,html{
 	font-size: 16px;
-	font-family: 'Droid Serif', serif;
+	font-family: 'raleway', sans-serif;
 	
 		@media screen and (max-width: 700px){
 			font-size: 14px;
@@ -12,9 +12,10 @@ p{
 	margin: 0 0 1.1250em 0;
 }
 h1{
-  font-size: 2.2500em; /* 36px */
-  line-height: 1.0000em; /* 36px */
-  margin-top: 0.5000em;  margin-bottom: 0.0000em;
+  font-size: 4.0000em; /* 64px */
+  line-height: 1.1250em; /* 72px */
+  margin-top: 0.2813em;  margin-bottom: 0.0000em;
+  font-weight: 700;
 }
 h2{
   font-size: 1.5000em; /* 24px */
