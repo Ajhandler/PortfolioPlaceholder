@@ -50,11 +50,44 @@ h3 {
   margin-top: 1.2857em;
   margin-bottom: 0.0000em; }
 
-/* line 4, ../sass/style.scss */
+/* line 16, ../sass/_setting.scss */
+body, html, .container {
+  height: 100%; }
+
+/* line 19, ../sass/_setting.scss */
+span {
+  color: #cdd3d8; }
+
+/* line 22, ../sass/_setting.scss */
+.name {
+  display: none; }
+
+/* line 1, ../sass/_layout.scss */
+.container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+
+/* line 9, ../sass/_layout.scss */
+.introduction {
+  max-width: 50%; }
+
+/* line 5, ../sass/style.scss */
 body {
   background: #354b60;
   color: #93a0ac; }
 
-/* line 8, ../sass/style.scss */
+/* line 9, ../sass/style.scss */
 h1 {
-  color: #cdd3d8; }
+  color: #93a0ac; }

@@ -1,10 +1,11 @@
 @import "_type";
 @import "_setting";
+@import "_layout";
 
 body{
 	background: $background;
 	color: $text-color;
 }
 h1{
-	color: $highlight;
+	color: $text-color;
 }
