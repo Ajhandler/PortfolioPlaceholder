@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".hi").fadeOut(4e3),$(".name").delay(4e3).fadeIn(1e3).fadeOut(3e3),$(".about").delay(8e3).fadeIn(1e3).fadeOut(2e3),$(".points").delay(11e3).fadeIn(1e3)});

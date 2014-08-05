@@ -13,12 +13,12 @@ $highlight: lighten($text-color, 20%);
 }
 
 //GLOBAL
-body, html, .container{
+body, html, .container,{
 	height: 100%;
 }
 span{
 	color: $highlight;
 }
-.name{
+.name, .about, .points{
 	display: none;
 }
